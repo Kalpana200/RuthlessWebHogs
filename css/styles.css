@@ -56,7 +56,18 @@ body {
 /* Cards styles */
 #cards-section {
   background-color: #11999e;
-  height: 32rem;
+  height: 87rem;
+}
+
+.card {
+  margin: 2rem;
+  background-color: #40514e;
+  color: #e4f9f5;
+}
+
+.images {
+  height: 7.5rem;
+  background-color: white;
 }
 
 /* Contact Us styles */
